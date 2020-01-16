@@ -14,4 +14,4 @@ Triggering Animations
 Object Interaction Through Tags, Layers, and Scripts
 
 A full description of the project as well as a video demonstration of the project is viewable at:
-https://oliverthompsongamedesigner.wordpress.com/game-projects/game-prototypes/unity-demonstration/
+https://oliverthompsongamedesigner.wordpress.com
